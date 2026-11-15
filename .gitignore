@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+ai_receptionist.db
+.DS_Store
+dist/
+build/
